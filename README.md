@@ -85,6 +85,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   CA - **California groups:**
     *   [Los Angeles Scala Users Group](https://lascalausers.slack.com/)
+    *   [San Francisco Tech](https://join.slack.com/t/thecitytech/shared_invite/enQtNDE1MjgyNTMzMTI2LWYzZjM4MWY0ODBiZWM5NGMyZjE1MDg4NjhmZjliZDIwZDYxMjQ1ZmZjNWYxMWFiMGJjNTQxMjM3ZThjMmIxMmQ)
     *   [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
 *   CO - **in Colorado there are several channels:**
     *   [Denver Devs](https://denverdevs.org/)
